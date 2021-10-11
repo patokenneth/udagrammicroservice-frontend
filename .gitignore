@@ -34,6 +34,9 @@ set_env.sh
 Thumbs.db
 UserInterfaceState.xcuserstate
 node_modules
-aws-secret
-env-config
-env-secret
+aws-secret.yml
+env-config.yml
+env-secret.yml
+aws-secret.yaml
+env-config.yaml
+env-secret.yaml
